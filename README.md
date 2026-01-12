@@ -59,7 +59,7 @@ Base de datos: `biblioteca_db`
 
 ---
 
-## ⚙️ Instalación y ejecución en local
+##  Instalación y ejecución en local
 
 1. **Clonar el repositorio**
 
