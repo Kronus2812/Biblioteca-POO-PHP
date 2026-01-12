@@ -1,4 +1,4 @@
-# 📚 Sistema de Biblioteca POO PHP
+#  Sistema de Biblioteca POO PHP
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-blue)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-orange)](https://www.mysql.com/)
@@ -9,7 +9,7 @@ Permite administrar libros, usuarios y préstamos con una arquitectura sencilla 
 
 ---
 
-## 🎯 Objetivo del proyecto
+##  Objetivo del proyecto
 
 - ✅ Practicar **POO en PHP** (clases, métodos, responsabilidades claras)
 - ✅ Usar **MySQL/MariaDB** con un diseño de tablas simple
@@ -21,7 +21,7 @@ Permite administrar libros, usuarios y préstamos con una arquitectura sencilla 
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **PHP 8+** (mysqli orientado a objetos)
 - **MySQL / MariaDB**
@@ -31,7 +31,7 @@ Permite administrar libros, usuarios y préstamos con una arquitectura sencilla 
 
 ---
 
-## 📊 Modelo de datos
+##  Modelo de datos
 
 **Base de datos:** `biblioteca_db`
 
@@ -69,7 +69,7 @@ Permite administrar libros, usuarios y préstamos con una arquitectura sencilla 
 
 ---
 
-## 🚀 Instalación y ejecución en local
+##  Instalación y ejecución en local
 
 ### 1. Clonar el repositorio
 
@@ -121,7 +121,7 @@ http://localhost/Biblioteca-POO-PHP/
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 Biblioteca-POO-PHP/
@@ -142,54 +142,14 @@ Biblioteca-POO-PHP/
 
 ---
 
-## ✨ Características principales
+##  Características principales
 
-- 📖 **Gestión de libros**: Agregar, editar, eliminar y listar libros
-- 👥 **Gestión de usuarios**: Registro y administración de lectores
-- 📅 **Préstamos**: Control de préstamos y devoluciones
-- 🔄 **Estados en tiempo real**: Actualización automática del estado de libros
-- 🎨 **Interfaz intuitiva**: Panel de administración limpio y organizado
-- 🔐 **Validación de datos**: Seguridad básica en formularios
-
----
-
-## 🔮 Futuras mejoras
-
-- [ ] Sistema de autenticación (login de administrador/bibliotecario)
-- [ ] Paginación y filtros avanzados en listados
-- [ ] Exportación de reportes (PDF/Excel)
-- [ ] Sistema de roles y permisos
-- [ ] Notificaciones de vencimiento de préstamos
-- [ ] Historial completo de préstamos por usuario
-- [ ] API REST para integración con otras aplicaciones
-
----
-
-## 👨‍💻 Autor
-
-**Tomas Martinez** ([@Kronus2812](https://github.com/Kronus2812))  
-📧 tomasmartinez2006@gmail.com  
-🌐 [Portafolio](https://tomascode.urbanlens.com.co/)
-
-Full Stack Developer | Backend | Frontend | PHP | JavaScript | React | SQL
-
----
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si quieres mejorar este proyecto:
-
-1. Haz un fork del repositorio
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`)
-3. Realiza tus cambios y haz commit (`git commit -m 'Agregar nueva funcionalidad'`)
-4. Sube los cambios (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
+-  **Gestión de libros**: Agregar, editar, eliminar y listar libros
+-  **Gestión de usuarios**: Registro y administración de lectores
+-  **Préstamos**: Control de préstamos y devoluciones
+-  **Estados en tiempo real**: Actualización automática del estado de libros
+-  **Interfaz intuitiva**: Panel de administración limpio y organizado
+-  **Validación de datos**: Seguridad básica en formularios
 
 ---
 
