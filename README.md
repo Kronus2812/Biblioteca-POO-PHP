@@ -2,7 +2,6 @@
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-blue)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-orange)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Aplicación web para gestionar una biblioteca usando **PHP orientado a objetos** y **MySQL**.  
 Permite administrar libros, usuarios y préstamos con una arquitectura sencilla pero organizada.
