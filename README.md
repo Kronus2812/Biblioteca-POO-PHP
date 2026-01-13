@@ -11,13 +11,13 @@ Permite administrar libros, usuarios y préstamos con una arquitectura sencilla 
 
 ##  Objetivo del proyecto
 
-- ✅ Practicar **POO en PHP** (clases, métodos, responsabilidades claras)
-- ✅ Usar **MySQL/MariaDB** con un diseño de tablas simple
-- ✅ Construir un **CRUD completo** para:
+-  Practicar **POO en PHP** (clases, métodos, responsabilidades claras)
+-  Usar **MySQL/MariaDB** con un diseño de tablas simple
+-  Construir un **CRUD completo** para:
   - Libros
   - Usuarios
   - Préstamos
-- ✅ Tener un proyecto real para portfolio y GitHub
+-  Tener un proyecto real para portfolio y GitHub
 
 ---
 
@@ -151,6 +151,4 @@ Biblioteca-POO-PHP/
 -  **Interfaz intuitiva**: Panel de administración limpio y organizado
 -  **Validación de datos**: Seguridad básica en formularios
 
----
 
-⭐ **Si este proyecto te fue útil, no olvides darle una estrella en GitHub**
