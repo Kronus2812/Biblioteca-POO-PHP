@@ -150,4 +150,12 @@ Biblioteca-POO-PHP/
 -  **Interfaz intuitiva**: Panel de administración limpio y organizado
 -  **Validación de datos**: Seguridad básica en formularios
 
+## Desarrollador
 
+**Kronus2812**
+
+Stack: Frontend, Backend, Python, JavaScript, SQL, PHP, React, CSS, HTML
+
+Repositorio: [github.com/Kronus2812/Chat_Bot](https://github.com/Kronus2812/Chat_Bot)
+
+---
