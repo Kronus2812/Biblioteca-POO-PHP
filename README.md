@@ -156,6 +156,6 @@ Biblioteca-POO-PHP/
 
 Stack: Frontend, Backend, Python, JavaScript, SQL, PHP, React, CSS, HTML
 
-Repositorio: [github.com/Kronus2812/Chat_Bot](https://github.com/Kronus2812/Chat_Bot)
+Repositorio: [github.com/Kronus2812/Biblioteca](https://github.com/Kronus2812/Biblioteca-POO-PHP.git)
 
 ---
